@@ -842,7 +842,7 @@ section,
 
 .hero .hero-image .image-wrapper {
   position: relative;
-  max-width: 450px;
+  max-width: 380px;
   margin: 0 auto;
 }
 
@@ -884,20 +884,20 @@ section,
 }
 
 .hero .hero-image .floating-elements .floating-card.design {
-  top: 7%;
-  right: -32%;
+  top: 2%;
+  right: -39%;
   animation-delay: 0s;
 }
 
 .hero .hero-image .floating-elements .floating-card.code {
-  top: 27%;
-  right: -30%;
+  top: 17%;
+  right: -39%;
   animation-delay: 0s;
 }
 
 .hero .hero-image .floating-elements .floating-card.creativity {
-  top: 47%;
-  right: -20%;
+  top: 32%;
+  right: -33%;
   animation-delay: 0s;
 }
 
